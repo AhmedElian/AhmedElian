@@ -52,7 +52,7 @@ I enjoy working in Agile environments and contributing to open-source QA or auto
 ⚡ Fun Facts
 - Former lawyer with 7+ years of legal experience 🧑‍⚖️  
 - Passionate about quality, clarity, and user satisfaction in tech 🧪  
-- Enjoys hiking, learning languages, and solving logic puzzles 🧩  
+- Enjoys swimming, learning languages, and solving logic puzzles 🧩  
 
 ---
 
