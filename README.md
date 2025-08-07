@@ -17,12 +17,12 @@ Welcome to my GitHub profile! I'm a detail-oriented QA Engineer with a strong fo
 
 🔍 Recent Projects
 
-📱 Contact List App – API Testing Project (Team Lead)
+📱 [Contact List App](https://github.com/AhmedElian/ContactListApp-Project.git) – API Testing Project (Team Lead)
 - Led a QA team in testing all CRUD endpoints using Postman.
 - Designed and executed 70+ test cases with security, response time, and edge scenarios.
 - Delivered RTM, bug reports, test plan, test summary report, and final presentation.
 
-💼 OrangeHRM Web App – Functional UI Testing
+💼 [OrangeHRM](https://github.com/AhmedElian/OrangeHRM-Project.git) Web App – Functional UI Testing
 - Designed and executed 195+ manual test cases.
 - Created the delivered documents and contributed to full lifecycle testing.
 - Delivered RTM, bug reports, test plan, and test summary report.
