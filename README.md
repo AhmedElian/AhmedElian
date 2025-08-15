@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a detail-oriented QA Engineer with a strong fo
 - **API Testing:** Postman, Swagger  
 - **Bug Tracking:** JIRA, Trello  
 - **Databases:** MySQL Workbench 
-- **Other Tools:** Visual Studio Code, GitHub, Microsoft 365
+- **Other Tools:** Visual Studio Code, Eclipse IDE, GitHub, Microsoft 365
 
 ---
 
