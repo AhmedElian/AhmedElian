@@ -17,12 +17,18 @@ Welcome to my GitHub profile! I'm a detail-oriented QA Engineer with a strong fo
 
 🔍 Recent Projects
 
+🔧 [OrangeHRM](https://github.com/AhmedElian/OrangeHRM-Automation-Testing-Project.git) – Automation Testing Project (Team Lead)
+- Led the automation testing project for the Admin module, focusing on Login and User Management workflows.
+- Personally designed and executed 97+ automated test cases using Selenium WebDriver, TestNG, and Java (Eclipse).
+- Delivered complete QA documentation, including Test Plan, RTM, Bug Reports, Test Summary Report, and TestNG Reports.
+- Coordinated project tasks through Trello and Microsoft 365, and presented results aligned with the SRS.
+
 📱 [Contact List App](https://github.com/AhmedElian/ContactListApp-Project.git) – API Testing Project (Team Lead)
 - Led a QA team in testing all CRUD endpoints using Postman.
 - Designed and executed 70+ test cases with security, response time, and edge scenarios.
 - Delivered RTM, bug reports, test plan, test summary report, and final presentation.
 
-💼 [OrangeHRM](https://github.com/AhmedElian/OrangeHRM-Project.git) Web App – Functional UI Testing
+💼 [OrangeHRM](https://github.com/AhmedElian/OrangeHRM-Project.git) – Functional UI Testing Project (QA Engineer)
 - Designed and executed 195+ manual test cases.
 - Created the delivered documents and contributed to full lifecycle testing.
 - Delivered RTM, bug reports, test plan, and test summary report.
