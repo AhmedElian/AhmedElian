@@ -17,6 +17,14 @@ Welcome to my GitHub profile! I'm a detail-oriented QA Engineer with a strong fo
 
 🔍 Recent Projects
 
+📱 [Tasks.org](https://github.com/saifaraj94/MobileTestingProject) – Mobile Automation Testing Project (QA Engineer)
+- Automated core workflows of the Android app (task creation, sorting, subtasks, search, reminders) using Appium, Java, TestNG.
+- Delivered 30+ automation cases, TestNG reports, and summary report in a 5-day Scrum project.
+
+⚡ [Simple Books API](https://github.com/AhmedElian/Simple-Books-API-Performance-Project) – Performance Testing Project (QA Engineer)
+- Performed load and performance testing with JMeter on key endpoints (/books, /orders, /api-clients).
+- Produced test scripts, analysis reports, and summary report covering response time, latency, and throughput.
+
 🔧 [OrangeHRM](https://github.com/AhmedElian/OrangeHRM-Automation-Testing-Project.git) – Automation Testing Project (Team Lead)
 - Led the automation testing project for the Admin module, focusing on Login and User Management workflows.
 - Personally designed and executed 97+ automated test cases using Selenium WebDriver, TestNG, and Java (Eclipse).
