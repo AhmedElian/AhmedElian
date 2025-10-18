@@ -1,5 +1,5 @@
 Hi there, I'm Ahmed Abdallatif 👋  
-🎯 QA Engineer | 📍 Cairo, Egypt | ⚖️ Former Lawyer turned Software Tester
+🎯 QA Engineer | 📍 Gaza, Palestine | ⚖️ Former Lawyer turned Software Tester
 
 Welcome to my GitHub profile! I'm a detail-oriented QA Engineer with a strong foundation in both **manual and automated testing**, project planning, and API validations. My background in law taught me how to think critically, analyze thoroughly, and follow structured processes—skills I now apply to software quality assurance.
 
